@@ -1,6 +1,7 @@
 
 qtile-ng uses Python distutils. Installation should be as simple as:
-
     python setup.py install
 
+Installation of dependent packages (Ubuntu 12.04 LTS):
+    apt-get install xcb-proto python-xcbgen 
 
